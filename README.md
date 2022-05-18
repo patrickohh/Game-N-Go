@@ -1,4 +1,2 @@
-# game_rental_api
-A simple, RESTful web API that acts as a rental system for games. The API features CRUD operations for users in game and store entities. 
-Web API can be accessed on this URL:https://game-rental-api.wl.r.appspot.com
-Hosted using the Google Cloud Platform
+# Game N' Go
+A simple, RESTful web API that emulates a rental system for games. The API allows users to perfrom CRUD operations with game/store-front entities and HTTPS requests supported by a Flask framework. Used the Google Cloud Platform to deploy. 
